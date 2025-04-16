@@ -1,5 +1,3 @@
----
-
 # Sistema Bancário em Java
 
 Este sistema bancário foi desenvolvido utilizando **Programação Orientada a Objetos (POO)**, aplicando conceitos como **abstração**, **encapsulamento**, **herança** e **polimorfismo**. Abaixo está a explicação detalhada de cada classe e suas funcionalidades.
