@@ -99,7 +99,7 @@ Representa o cliente do banco.
 
 ---
 
-## 🏛7. Classe `Banco`
+## 7. Classe `Banco`
 
 Gerencia as contas associadas.
 
